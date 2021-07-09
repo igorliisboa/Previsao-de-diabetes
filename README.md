@@ -3,7 +3,7 @@
 App que utiliza Machine learning para prever possível diabete dos pacientes
 Fonte: PIMA - INDIA (Kaggle)
 
-## Estes são os critérios a ser avaliados: <h2>
+## Estes são os critérios a serem avaliados: <h2>
   * Gravidez
   * Glicose
   * Pressão sanguínea
