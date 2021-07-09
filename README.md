@@ -2,7 +2,7 @@
  
  App que utiliza Machine learning para prever possível diabete dos pacientes
  
-[Fonte: PIMA - INDIA (Kaggle)](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+ Fonte: [PIMA - INDIA (Kaggle)](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 
 ## Estes são os critérios a serem avaliados: <h2>
   * Gravidez
